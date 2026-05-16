@@ -3,7 +3,7 @@
 **Backend Engineer** specializing in high-performance, distributed systems with .NET/C#.  
 4+ years building real-time backend infrastructure that scales under heavy load.
 
-> 🟢 Currently open to Backend / Backend-leaning Full Stack roles — Israel (hybrid).
+> 🟢 Currently open to Backend roles — Israel (hybrid).
 
 ---
 

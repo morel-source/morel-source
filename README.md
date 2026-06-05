@@ -5,11 +5,15 @@
 ---
 
 ## 🛠️ Tech Stack
-**Core:** C# · .NET · ASP.NET Core · Entity Framework Core  
-**Distributed Systems:** Microservices · RabbitMQ · TCP/IP · SignalR · Event-Driven Architecture  
-**Cloud & DevOps:** Azure · Docker · Kubernetes · CI/CD  
-**Databases:** SQL Server · Redis · SQLite  
-**Observability:** Prometheus · Grafana · ELK Stack  
+
+- **Core:** C# · .NET · ASP.NET Core · Entity Framework Core
+- **Backend:** Python (FastAPI) · Node.js · Express.js · REST APIs
+- **Distributed Systems:** Microservices · RabbitMQ · TCP/IP · SignalR · Event-Driven Architecture
+- **Cloud & DevOps:** Azure · Docker · Kubernetes · CI/CD
+- **Databases:** SQL Server · Redis · Mongodb · SQLite
+- **Observability:** Prometheus · Grafana · ELK Stack
+- **Mobile:**  Kotlin · Android
+- **Frontend:** HTML· CSS · JavaScript · Angular · Vue.js
 
 ---
 

@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack
 
 - **Core:** C# · .NET · ASP.NET Core · Entity Framework Core
-- **Backend:** Python (FastAPI) · Node.js · Express.js · REST APIs
+- **Backend:** C++, Python (FastAPI) · Node.js · Express.js · REST APIs
 - **Distributed Systems:** Microservices · RabbitMQ · TCP/IP · SignalR · Event-Driven Architecture
 - **Cloud & DevOps:** Azure · Docker · Kubernetes · CI/CD
 - **Databases:** SQL Server · Redis · Mongodb · SQLite

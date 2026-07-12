@@ -14,7 +14,8 @@
 - **Observability:** Prometheus · Grafana · ELK Stack
 - **Mobile:**  Kotlin · Android
 - **Frontend:** HTML· CSS · JavaScript · Angular · Vue.js
-
+- **AI & LLM:** RAG · Vector Databases (Qdrant) · OpenAI API · Ollama · Prompt Engineering
+- **AI-Assisted Development:** ChatGPT · Claude · Gemini · GitHub Copilot
 ---
 
 ## 📫 Let's connect
